@@ -10,5 +10,8 @@ The code is in **Python 3.7**. It should also run in later versions, but does no
 
 * **3-JUG Problem**
 * **8-Puzzle Problem**
+  * Solved using BFS
+  * Solved using A-Star
+  * Solved using Best-first-search
  
  
