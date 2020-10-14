@@ -1,6 +1,6 @@
 # Artificial-Intelligence-Algorithms
 
-  Python Code for some of the common and popular **AI problems**.
+  Python Code for some of the  **AI problems**.
 
 ## Python Version
 
