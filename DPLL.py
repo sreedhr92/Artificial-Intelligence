@@ -77,10 +77,10 @@ def DPLL(clauses,symbols,model):
     print("Model    |",model)
     print()
     # Base Condition for termination
-    # If all the clauses are true
+    # If all the clauses are true,return true
     if len(clauses) == 0:
         return True
-    # If some of the clauses are false
+    # If some of the clauses are false,return false
     for i in clauses:
         if len(i) == 0:
             return False
