@@ -100,7 +100,7 @@ def DPLL(clauses,symbols,model):
              new , contruct_model(model, p, value))
 
     # Selecting first symbol(may be selected any at random) but to improve the search by heuristic
-    # select the most occuring symbol to arrive at unit clause or to get pure symbols
+    # select the most occuring symbol to arrive quickly at unit clauses and pure symbols
 
     p = symbols[0]
     rest = reduce_symbols(symbols,p)
