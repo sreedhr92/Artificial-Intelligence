@@ -16,6 +16,7 @@ The code is in **Python 3.7**. It should also run in later versions, but does no
 * **8-Queens Problem**
   * Solved using Steepest-Ascent hill climbing
   * Solved using Genetic Algorithm
+  * Solved using Backtraking 
 * **DPLL(David Putnam Loveland Logeman) Algorithm** for checking satisfiability of a sentence.
 
  
