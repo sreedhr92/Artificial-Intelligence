@@ -18,6 +18,7 @@ The code is in **Python 3.7**. It should also run in later versions, but does no
   * Solved using Genetic Algorithm
   * Solved using Backtraking 
 * **DPLL(David Putnam Loveland Logeman) Algorithm** for checking satisfiability of a sentence.
+* **TIC-TAC-TOE** AI game with Alpha Beta Pruning Algorithm. 
 
  
  
